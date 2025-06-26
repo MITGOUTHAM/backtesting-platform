@@ -87,13 +87,18 @@ Sends back entry/exit logs in real time
   "avgTradeDuration": 2.5,
   "trades": [ ... ]
 }
-🧪 Testing Tips
-Try changing indicator to RSI or MACD.
-Vary stopLoss and takeProfit to simulate tighter/looser risk settings.
-📘 Credits
-Designed & implemented by Goutham
-Built with ❤️ using FastAPI + React
-📦 To-Do (Optional Enhancements)
-Visual drag-and-drop logic builder
-Multi-asset portfolio simulation
-Export results as CSV or image
+Screensho![Screenshot (77)](https://github.com/user-attachments/assets/4c7edfd3-0639-4eaa-8860-414f3214055f)
+ts:
+![Screenshot (76)](https://github.com/user-attachments/assets/03e73b0c-e71b-4417-8423-c1a87a56f33d)
+![Screenshot (75)](https://github.com/user-attachments/assets/8bdc5189-1165-4737-af53-093e932cb792)
+![Screenshot (74)](https://github.com/user-attachments/assets/b81929e1-0070-45c0-bcd7-d2ea04232a7f)
+![Screenshot (73)](https://github.com/user-attachments/assets/494fabdd-3591-4c50-82a3-3dace5f0074f)
+![Screenshot (72)](https://github.com/user-attachments/assets/3f4916dd-0f10-4250-97df-cf592ce51f2c)
+![Screenshot (71)](https://github.com/user-attachments/assets/ff0f877e-ba5b-4c2e-ae14-362e1961b473)
+![Screenshot (70)](https://github.com/user-attachments/assets/9c2c59ea-8f07-4ed1-81bf-aba0c0618dc7)
+![Screenshot (69)](https://github.com/user-attachments/assets/fbf3e318-08c5-4f9c-b58f-e50d2d25000b)
+![Screenshot (68)](https://github.com/user-attachments/assets/7a3524d8-4b69-4b63-9b0d-2651c42595da)
+![Screenshot (67)](https://github.com/user-attachments/assets/29b974dd-4b84-4010-b4b5-da018f578fa7)
+![Screenshot (66)](https://github.com/user-attachments/assets/630b44f6-ed63-4874-8eca-682ce7ead5eb)
+![Screenshot (65)](https://github.com/user-attachments/assets/9c91aad8-304b-4ec2-8c44-ffbffd37afe7)
+
