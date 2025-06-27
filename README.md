@@ -31,7 +31,7 @@ Live WebSocket log view for trades
 🧱 Tech Stack
 LayerTechnologyBackendFastAPI, Python, PandasFrontendReact, Bootstrap 5ChartsChart.jsWebSocketFastAPI WebSocketDataCSV (BTC-1d sample data)📁 Folder Structure
 project/
-├── backend/
+├── app/
 │   └── main.py
 │   └── data/BTC-1d.csv
 ├── frontend/
